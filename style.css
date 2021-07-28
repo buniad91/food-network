@@ -62,45 +62,40 @@ h2{
 
 /* ---------------main section 3 start----------- */
 
-.recipies-section{
-    text-align: center;
+.my-recipies-section{
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
-.recipies-flexiable-divison{
+.my-recipies-flexaible{
     display: flex;
-    width: 30%;
-    
 }
 
-.foods{
+.my-recipies-food-items{
+    width: 25%;
+    margin-left: 4.5%;
+    margin-top: 70px;
+    padding: 10px;
     box-shadow:0 20px 30px 0 rgba(151, 151, 151, 0.493), 0 20px 30px 0 rgba(168, 168, 168, 0.19) ;
-    padding: 20px;
     border-radius: 20px;
-    margin-left: 13%;
-    margin-top: 40px;
 }
 
 .food-images{
     margin-left: auto;
     margin-right: auto;
     display: block;
-    width: 499px; 
+    width: 350px; 
     border-radius: 20px;
     margin-top: 20px;
-}
-
-h3{
-    font-size: 25px;
-    color: gainsboro;
 }
 
 /* ---------------main section 3 end----------- */
 
 
-/* -------------------------------------- social media achivements start----------------------- */
+/* -------------------------------------- social media achivements section 4 start----------------------- */
 .social-media-flexiable-section{
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 12%;
+    margin-right: 14.5%;
     margin-top: 70px;
     border-radius: 20px;
     box-shadow:0 20px 30px 0 rgba(151, 151, 151, 0.493), 0 20px 30px 0 rgba(168, 168, 168, 0.19) ;
@@ -114,7 +109,7 @@ h3{
     width: 30%;
     margin-left: 12%;
 }
-/* -------------------------------------- social media achivements end----------------------- */
+/* -------------------------------------- social media achivements section 4 end----------------------- */
 
 
 
@@ -151,3 +146,24 @@ h4{
     width: 30px;
 }
 /* =========================== Footer end================ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
