@@ -1,4 +1,153 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
+
+/* ------------------------main section 1 start----------------------- */
+h1{
+    font-size: 50px;
+}
+.food-net-title{
+    color: tomato;
+}
+
+.first-flexiable-section{
+    display: flex;
+}
+
+.food-network-devison-one{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.order-food-button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, rgb(236, 180, 75), rgb(247, 102, 76));
+    padding: 10px 40px 10px 40px;
+    color: white;
+    border-radius: 40px;
+    box-shadow: 0 4px 8px 0 rgba(248, 162, 64, 0.493), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* ------------------------main section 1 end----------------------- */
+
+
+/* ---------------- main section 2 start---------- */
+.second-flexiable-section{
+    display: flex;
+}
+
+.second-flexiable-section-bg{
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+    height: 547px;
+}
+
+.food-network-devison-second{
+    width: 50%;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+.about-me-title{
+    margin-top: 8%;
+}
+h2{
+    font-size: 40px;
+}
+
+/* --------------- main section 2 end---------------- */
+
+/* ---------------main section 3 start----------- */
+
+.recipies-section{
+    text-align: center;
+}
+
+.recipies-flexiable-divison{
+    display: flex;
+    width: 30%;
+    
+}
+
+.foods{
+    box-shadow:0 20px 30px 0 rgba(151, 151, 151, 0.493), 0 20px 30px 0 rgba(168, 168, 168, 0.19) ;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 13%;
+    margin-top: 40px;
+}
+
+.food-images{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 499px; 
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+h3{
+    font-size: 25px;
+    color: gainsboro;
+}
+
+/* ---------------main section 3 end----------- */
+
+
+/* -------------------------------------- social media achivements start----------------------- */
+.social-media-flexiable-section{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 70px;
+    border-radius: 20px;
+    box-shadow:0 20px 30px 0 rgba(151, 151, 151, 0.493), 0 20px 30px 0 rgba(168, 168, 168, 0.19) ;
+}
+
+.social-media-flexiable{
+    display: flex;
+}
+
+.social-media-achivements{
+    width: 30%;
+    margin-left: 12%;
+}
+/* -------------------------------------- social media achivements end----------------------- */
+
+
+
+
+/* ==========================Footer Start=============== */
+
+footer{
+    margin-top: 70px;
+    background-color: rgba(0, 0, 0, 0.911); 
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer-title{
+    text-align: center;
+    color: white;
+}
+
+.footer-food-net-title{
+    color: tomato;
+}
+.footer-food-net{
+    color: rgb(139, 139, 139);
+}
+h4{
+    font-size: 30px;
+}
+
+.social-media-icons{
+    text-align: center;
+}
+
+.social-icons{
+    margin: 20px;
+    width: 30px;
+}
+/* =========================== Footer end================ */
